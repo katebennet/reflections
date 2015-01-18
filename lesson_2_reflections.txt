@@ -1,0 +1,9 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+Don't know.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory = what you're working on, not saved to the cloud.
+Staging area = saved to the cloud, safer in case lose the file, others can look at it.
+Repository = checked in, impacting the main code line.
