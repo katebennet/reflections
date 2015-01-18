@@ -7,3 +7,15 @@ Don't know.
 Working directory = what you're working on, not saved to the cloud.
 Staging area = saved to the cloud, safer in case lose the file, others can look at it.
 Repository = checked in, impacting the main code line.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+Not sure.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you're experimenting with something that you don't want to touch the main code yet.
+
+5. How do the diagrams help you visualize the branch structure?
+
+See where everything fits together.
