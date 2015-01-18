@@ -19,3 +19,8 @@ When you're experimenting with something that you don't want to touch the main c
 5. How do the diagrams help you visualize the branch structure?
 
 See where everything fits together.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Two branches become one.
+Represented in the diagram that way because you always need a Master, so effectively one branch is merging in to Master.
