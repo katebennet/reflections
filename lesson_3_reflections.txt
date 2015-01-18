@@ -2,3 +2,7 @@
 
 When other people are contributing to the repository.
 To keep your work saved in case your local crashes.
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because you might be experimenting with something and you don't want it to confuse your setup. Also there might be changes you don't want reflected, and you might be distracted by changes others have made.
