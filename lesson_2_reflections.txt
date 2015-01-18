@@ -24,3 +24,8 @@ See where everything fits together.
 
 Two branches become one.
 Represented in the diagram that way because you always need a Master, so effectively one branch is merging in to Master.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging: quicker, usually correct. BUT may merge things incorrectly and you don't see all the changes to the code.
+Merges manually: see every change, choose to keep/ discard what you want. BUT slower and could make manual mistakes. 
