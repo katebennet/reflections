@@ -12,3 +12,7 @@ Because you might be experimenting with something and you don't want it to confu
 Fork = taking someone else's repository and making your own version from it. Used when you don't have permission to change the original repository, or want to take the repository in a different direction but leave the original intact.
 Clone = a clone of a file. Used when you want a copy to work from.
 Branch = when you're working on a small feature or bug within a repository.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So that you can work on it offline, and refer to it quickly without needing to pull the latest or look at Github.
