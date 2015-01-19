@@ -6,3 +6,9 @@ To keep your work saved in case your local crashes.
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because you might be experimenting with something and you don't want it to confuse your setup. Also there might be changes you don't want reflected, and you might be distracted by changes others have made.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork = taking someone else's repository and making your own version from it. Used when you don't have permission to change the original repository, or want to take the repository in a different direction but leave the original intact.
+Clone = a clone of a file. Used when you want a copy to work from.
+Branch = when you're working on a small feature or bug within a repository.
