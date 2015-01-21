@@ -20,3 +20,7 @@ So that you can work on it offline, and refer to it quickly without needing to p
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could email files to the people yo uwant to collaborate with, or share it via a memory stick. Both methods would be much more confusing and involve a lot of overhead working out what was going on.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Changes should always be made in a separate branch so you can test them out and verify they work before affecting the main code line. This concept becomes even more important when there's more than one person working on the code.
