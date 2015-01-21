@@ -16,3 +16,7 @@ Branch = when you're working on a small feature or bug within a repository.
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So that you can work on it offline, and refer to it quickly without needing to pull the latest or look at Github.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could email files to the people yo uwant to collaborate with, or share it via a memory stick. Both methods would be much more confusing and involve a lot of overhead working out what was going on.
